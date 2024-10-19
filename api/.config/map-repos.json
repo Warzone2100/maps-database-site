@@ -1,0 +1,38 @@
+[
+    {
+        "github_repo": "Warzone2100/maps-2p",
+        "last_release": "v9"
+    },
+    {
+        "github_repo": "Warzone2100/maps-3p",
+        "last_release": "v1"
+    },
+    {
+        "github_repo": "Warzone2100/maps-4p",
+        "last_release": "v10"
+    },
+    {
+        "github_repo": "Warzone2100/maps-5p",
+        "last_release": "v4"
+    },
+    {
+        "github_repo": "Warzone2100/maps-6p",
+        "last_release": "v7"
+    },
+    {
+        "github_repo": "Warzone2100/maps-7p",
+        "last_release": "v3"
+    },
+    {
+        "github_repo": "Warzone2100/maps-8p",
+        "last_release": "v11"
+    },
+    {
+        "github_repo": "Warzone2100/maps-9p",
+        "last_release": "v2"
+    },
+    {
+        "github_repo": "Warzone2100/maps-10p",
+        "last_release": "v9"
+    }
+]
